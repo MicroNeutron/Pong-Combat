@@ -199,7 +199,7 @@ function draw() {
       text("GameOver", 20, 300);
       text("Killed" + " " + killed, 20, 380);
       textSize(32);
-      text("Refresh to Start a New Game", 20, 450)
+      text("Press Ctrl + R to Start a New Game", 20, 450)
     }
 
     // 击杀 Kill
